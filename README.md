@@ -5,4 +5,5 @@ I've included the bookmarklet version with icon already. Just import it into you
 
 Note: 
 1. for www.iq.com only. I haven't tried from iqyi.com
-2. before clicking the script or bookmarklet, set your desire resolution first and play the video to catch the m3u8 content.
+2. To get the 1080p, you should have VIP access.
+3. before clicking the script or bookmarklet, set your desire resolution first and play the video to catch the m3u8 content.
